@@ -1,1 +1,5 @@
 this file is updated by developer.
+class user(){
+   string username;
+   int id;
+}
